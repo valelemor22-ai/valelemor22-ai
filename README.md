@@ -5,7 +5,7 @@ Buscando mi primera oportunidad profesional como **Desarrollador Full Stack Jr /
 
 Soy de La Rioja, Argentina y me especializo en crear aplicaciones web completas, desde APIs REST hasta interfaces con React.
 
-📫 **Contacto:** valelemor22@gmail.com | [LinkedIn](https://www.linkedin.com/in/valelemor22-ai) | La Rioja, Argentina
+📫 **Contacto:** valelemor22@gmail.com | [LinkedIn](https://www.linkedin.com/in/valentino-lemor-884665382) | La Rioja, Argentina
 
 ---
 ### 🛠️ Tech Stack - Palabras clave para ATS
